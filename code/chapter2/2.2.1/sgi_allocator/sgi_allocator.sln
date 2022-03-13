@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sgi_allocator", "sgi_allocator\sgi_allocator.vcxproj", "{785B1BEE-1F68-4803-B9D0-23091439EC76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{785B1BEE-1F68-4803-B9D0-23091439EC76}.Debug|x64.ActiveCfg = Debug|x64
+		{785B1BEE-1F68-4803-B9D0-23091439EC76}.Debug|x64.Build.0 = Debug|x64
+		{785B1BEE-1F68-4803-B9D0-23091439EC76}.Debug|x86.ActiveCfg = Debug|Win32
+		{785B1BEE-1F68-4803-B9D0-23091439EC76}.Debug|x86.Build.0 = Debug|Win32
+		{785B1BEE-1F68-4803-B9D0-23091439EC76}.Release|x64.ActiveCfg = Release|x64
+		{785B1BEE-1F68-4803-B9D0-23091439EC76}.Release|x64.Build.0 = Release|x64
+		{785B1BEE-1F68-4803-B9D0-23091439EC76}.Release|x86.ActiveCfg = Release|Win32
+		{785B1BEE-1F68-4803-B9D0-23091439EC76}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA49F735-94A9-4380-9FC3-CFB6D9D3C97E}
+	EndGlobalSection
+EndGlobal
